@@ -64,6 +64,10 @@ a.font-black {
     font-weight: bold;
 }
 
+#about .email a{
+    text-decoration: none;
+    color: white;
+}
 #about .icons{
     margin-top: 14px;
     font-size: 10px;
